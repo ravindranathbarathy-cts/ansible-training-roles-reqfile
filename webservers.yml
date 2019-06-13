@@ -1,0 +1,9 @@
+---
+## Web Servers
+- hosts: webservers
+  roles:
+    - webserver-role
+  become: yes
+  become_method: sudo
+  become_user: root
+  gather_facts: no

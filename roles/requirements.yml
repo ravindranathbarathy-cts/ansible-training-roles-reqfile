@@ -1,0 +1,7 @@
+# from GitHub, DBserver Role
+- src: https://github.com/ravindranathbarathy-cts/dbserver-role.git
+  version: master
+  
+# from GitHub, Webserver Role
+- src: https://github.com/ravindranathbarathy-cts/webserver-role.git
+version: master
